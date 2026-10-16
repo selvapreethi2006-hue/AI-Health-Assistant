@@ -1,0 +1,6 @@
+{
+  "name": "HEALTH AI",
+  "description": "AI-powered health information assistant for general wellness, nutrition, fitness, sleep, and lifestyle habits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
